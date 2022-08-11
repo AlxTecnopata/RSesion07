@@ -1,6 +1,6 @@
 # PRUEBA 2
 
-iris.1 <- iris
-head(iris.1)
+iris_db <- iris
+head(iris_db)
 
-## Qué pedo lml
+summary(iris_db)
